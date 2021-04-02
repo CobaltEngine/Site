@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "Added Content"
+git push -f origin gh-pages
